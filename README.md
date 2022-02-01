@@ -1,13 +1,13 @@
 #### UPDATE : REPLIT ADDED SO THERES NO NEED OF TERMUX🔥 COPY THE SESSION AND PASTE IN SESSION.JSON
 
-#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`](https://youtu.be/vt9TbOuyhgI) OR ELSE MOST PROBABLY YOU WILL GET ERROR 
+#### NB : THERE ARE SLIGHT CHANGES IN THE DEPLOYING METHOD COMPARING WITH COMMON ASEENA BOT . SO WATCH THE VIDEO  FULLY THAT I HAVE UPLOADED BY [` CLICKING HERE`] OR ELSE MOST PROBABLY YOU WILL GET ERROR 
 
 
 
 <div align="center">
 <img src="xeon.jpg" alt="Pepe" width="170" />
 
-## P3P3 SIR 🌝💝
+## Mian 🌝💝
 
 </div>
 
@@ -17,7 +17,7 @@
 <p align="center">
  <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https://lol" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="httllo lol" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 
